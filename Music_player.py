@@ -1,5 +1,3 @@
-#Date of writing the code is january 14 2023 
-
 from pygame import mixer
 from tkinter import Button, Tk,Label
 from tkinter.filedialog import askopenfile
