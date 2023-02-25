@@ -1,5 +1,3 @@
-#date of writing is february 24 2023
-
 import requests as rq# Library for HTTP requests in python
 import pandas as pd # Library to represent responses in table
 import json # Library for data representation during transmission
